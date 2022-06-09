@@ -24,7 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,14 +32,15 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
 /* HEADER STYLES END */
 
 a {
@@ -111,6 +112,8 @@ p {
 
 /* End Benefits Styling */
 
+/* Content classes merged */
+
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,6 +132,9 @@ p {
     font-size: 36px;
 }
 
+/* End Content Styling */
+
+/* footer styling begin */
 
 footer {
     padding: 30px;
@@ -140,3 +146,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* footer styling end */
