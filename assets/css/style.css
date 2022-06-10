@@ -25,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* styling for navigation elements */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -53,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* hero image styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,16 +64,19 @@ p {
     background-position: center;
 }
 
+/* content images positioned to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* content images positioned to the right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* styling for content section */
 .content {
     width: 75%;
     display: inline-block;
@@ -79,7 +84,7 @@ p {
 }
 
 /* right hand column */
-
+/* benefits section styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -92,19 +97,20 @@ p {
 }
 
 /* Benefits classes merged */
+/* Benefits body text */
 
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
+/* Benefits header text */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
+/* benefits icons */
 .benefits img {
     display: block;
     margin: 10px auto;
